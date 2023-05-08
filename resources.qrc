@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/braces_election" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
